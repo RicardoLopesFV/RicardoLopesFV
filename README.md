@@ -1,5 +1,5 @@
 
-### Eae beleza? Eu sou o Ricardo Lopes👋
+### Eae beleza? Meu nome é Ricardo👋
 
 Sou estudante na EBAC - Engenheiro Front-End 🖥️
 
