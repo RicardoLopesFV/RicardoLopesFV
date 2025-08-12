@@ -1,7 +1,7 @@
 
 ### Eae beleza? Meu nome é Ricardo👋
 
-Sou estudante na EBAC - Engenheiro Front-End 🖥️
+Sou estudante na PUCPR - Tecnologia em Análise e Desenvolvimento de Sistemas 🖥️
 
 <img src="https://media3.giphy.com/media/ggK04fdPVARRtH8w7G/giphy.gif?cid=ecf05e47w0odivn7lwj4a0i6sbezpt31ta22tftha221cgyd&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="">
 
